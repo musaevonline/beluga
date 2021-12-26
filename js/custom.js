@@ -31,6 +31,7 @@ $(function () {
     }
   });
 
+  wind.stellar();
   // magnificPopup
   $(".portfolio .link").magnificPopup({
     delegate: "a",
